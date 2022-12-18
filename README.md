@@ -20,8 +20,8 @@ here is my latest contribution on a project --> [PAGOPA](https://github.com/pago
 - Continuous Integration / Continuous Delivery 
 - Automation Testing
 - ![kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=326ce4)
-- ![openshift](https://img.shields.io/badge/Openshift-whitef?style=for-the-badge&logo=Openshift&logoColor=eb2126)
-- ![ansible](https://img.shields.io/badge/Ansible-whitef?style=for-the-badge&logo=Ansible&logoColor=black)
+- ![openshift](https://img.shields.io/badge/Openshift-white?style=for-the-badge&logo=Openshift&logoColor=eb2126)
+- ![ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=black)
 
 
 
