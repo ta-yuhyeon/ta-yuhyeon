@@ -3,7 +3,7 @@ Just landed here on github , I'm a Junior Dedicated Engineer ,
 
 
 🔭 I’m currently working on
-- ![hcl](https://img.shields.io/badge/Hcl-7c43ba?style=for-the-badge&logo=Hcl&logoColor=<Logo Color>)
+- ![hcl](https://img.shields.io/badge/Hcl-7c43ba?style=for-the-badge&logo=Hcl&logoColor=<Logo Color>)]
 
 
 🌱 I’m currently learning :
