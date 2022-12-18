@@ -15,7 +15,7 @@ here is my latest contribution on a project --> [PAGOPA](https://github.com/pago
 - ![bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Bash&logoColor=white)
 
 
-🤔 I'm very interested and i hope i have the change to learn more about these topics:
+🤔 I'm very interested and I hope I have the chance to learn more about these topics:
 - DevOps Methodology
 - Continuous Integration / Continuous Delivery 
 - Automation Testing
