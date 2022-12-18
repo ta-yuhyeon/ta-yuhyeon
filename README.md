@@ -2,8 +2,12 @@
 Just landed here on github , I'm a Junior Dedicated Engineer ,
 
 
-🔭 I’m currently working on
-- ![Terraform](https://img.shields.io/badge/Terraform-7c43ba?style=for-the-badge&logo=TerraformlogoColor=7c43ba)]
+🔭 I’m currently working on these pieces of technologies
+- ![Terraform](https://img.shields.io/badge/Terraform-7c43ba?style=for-the-badge&logo=Terraform&logoColor=7c43ba) ;
+- ![Azure](https://img.shields.io/badge/Azure-35b2ed?style=for-the-badge&logo=Azure&logoColor=white) ;
+
+here is my latest contribution on a project [PAGOPA](https://github.com/pagopa/pm-infra/blob/stable/src/pmanager/app/alerts.tf).
+
 
 
 🌱 I’m currently learning :
