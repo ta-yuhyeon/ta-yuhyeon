@@ -2,8 +2,15 @@
 Just landed here on github , I'm a Junior Dedicated Engineer ,
 
 
+🔭 I’m currently working on
+- ![hcl](https://img.shields.io/badge/Hcl-7c43ba?style=for-the-badge&logo=Hcl&logoColor=<Logo Color>)
+
+
 🌱 I’m currently learning :
-- ![git](https://simpleicons.org/icons/git.svg/GIT-000000?style=for-the-badge&logo=git&logoColor=f05135)]
+- ![python](https://img.shields.io/badge/Python-ffce3f?style=for-the-badge&logo=Python&logoColor=386e9f)
+- ![bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=Bash&logoColor=white)
+
+
 <!--
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 **lo-yuta/lo-yuta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
