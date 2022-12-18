@@ -3,7 +3,7 @@ Just landed here on github , I'm a Junior Dedicated Engineer ,
 
 
 🔭 I’m currently working on
-- ![hcl](https://img.shields.io/badge/Hcl-7c43ba?style=for-the-badge&logo=Hcl&logoColor=<Logo Color>)]
+- ![Terraform](https://img.shields.io/badge/Terraform-7c43ba?style=for-the-badge&logo=TerraformlogoColor=7c43ba)]
 
 
 🌱 I’m currently learning :
