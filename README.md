@@ -16,7 +16,8 @@ here is my latest contribution on a project --> [PAGOPA](https://github.com/pago
 
 
 🤔 I'm very interested and I hope I have the chance to learn more about these topics:
-- ![devops](https://img.shields.io/badge/Devops-white?style=for-the-badge&logo=Devops&logoColor=326ce4)
+- ![devops](https://img.shields.io/badge/DevOps-white?style=for-the-badge&logo=DevOps&logoColor=326ce4)
+- ![gitops](https://img.shields.io/badge/GitOps-white?style=for-the-badge&logo=GitOps&logoColor=326ce4)
 - ![ci/cd](https://img.shields.io/badge/CI/CD-white?style=for-the-badge&logo=CI/CD&logoColor=326ce4)
 - ![kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=326ce4)
 - ![openshift](https://img.shields.io/badge/Openshift-white?style=for-the-badge&logo=Openshift&logoColor=eb2126)
