@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I'm a Junior System Engineer , with a pation for programming and the sys/ops world , since i was in middle school i always liked the idea of these worlds converging together or even using dev methodologies to solve different problems in the sys/ops field .
+I'm a Junior System Engineer , with a passion for programming and the sys/ops world , since i was in middle school i always liked the idea of these worlds converging together or even using dev methodologies to solve different problems in the sys/ops field .
 
 <br>
 
