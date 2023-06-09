@@ -1,22 +1,26 @@
 ### Hello there 👋
-Just landed here on github , I'm a Junior Dedicated Engineer ,
 
+I'm a Junior System Engineer , with a pation for programming and the sys/ops world , since i was in middle school i always liked the idea of these worlds converging together or even using dev methodologies to solve different problems in the sys/ops field .
 
-🔭 I’m currently working on these technologies
+<br>
+
+🔭 I’m currently working with these technologies
+- ![ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=black)
 - ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=Terraform&logoColor=7c43ba)
-- ![Azure](https://img.shields.io/badge/Azure-white?style=for-the-badge&logo=Azure&logoColor=white)
-- ![Cloudera](https://img.shields.io/badge/Cloudera-white?style=for-the-badge&logo=Bash&logoColor=white)
+- ![Gitlab](https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=Gitlab&logoColor=d05932)
+
+<br>
 
 🌱 I’m currently learning :
-- ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=386e9f)
+- ![python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=386e9f) 
+
+<br>
 
 🤔 I'm very interested and I hope I have the chance to learn more about these topics:
-- ![devops](https://img.shields.io/badge/DevOps-white?style=for-the-badge&logo=DevOps&logoColor=326ce4)
 - ![gitops](https://img.shields.io/badge/GitOps-white?style=for-the-badge&logo=GitOps&logoColor=326ce4)
 - ![ci/cd](https://img.shields.io/badge/CI/CD-white?style=for-the-badge&logo=CI/CD&logoColor=326ce4)
 - ![kubernetes](https://img.shields.io/badge/Kubernetes-white?style=for-the-badge&logo=Kubernetes&logoColor=326ce4)
-- ![openshift](https://img.shields.io/badge/Openshift-white?style=for-the-badge&logo=Openshift&logoColor=eb2126)
-- ![ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=black)
+
 
 
 
