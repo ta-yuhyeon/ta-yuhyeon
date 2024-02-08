@@ -2,7 +2,7 @@
 
 I'm a Junior System Engineer with a deep passion for programming and the fascinating world of sys/ops. Ever since middle school, I've been drawn to the idea of merging these worlds and leveraging development methodologies to solve complex challenges in the sys/ops field.
 
-## Technologies at My Fingertips 🛠️
+## Technologies and methodologies at My Fingertips and day by day 🛠️
 
 - ![Ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=black)
 - ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=Terraform&logoColor=7c43ba)
