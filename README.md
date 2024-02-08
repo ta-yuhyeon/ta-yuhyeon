@@ -4,7 +4,7 @@ I'm a Junior System Engineer with a deep passion for programming and the fascina
 
 ## Technologies and methodologies at My Fingertips and day by day 🛠️
 
-- ![Linux](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Linux&logoColor=black)
+- ![Linux](https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=Linux&logoColor=black)
 - ![Terraform](https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=Terraform&logoColor=7c43ba)
 - ![Ansible](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=Ansible&logoColor=black)
 - ![Gitlab](https://img.shields.io/badge/Gitlab-white?style=for-the-badge&logo=Gitlab&logoColor=d05932)
